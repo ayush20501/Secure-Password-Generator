@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.class1 {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.checkbox {
+    margin: 10px;
+}
+
+#num {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    width: 300px;
+}
+
+::placeholder {
+    text-align: center;
+}
+
+button {
+    border-radius: 5px;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.ptag {
+    border: 1px solid black;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: lighter;
+    overflow-x: auto;
+    width: 300px;
+}
+
+input {
+    padding: 10px 20px;
+}
+
+::-webkit-scrollbar {
+    height: 5px;
+    width: 8px;
+    background: #000;
+}
+
+::-webkit-scrollbar-corner {
+    background: #000;
+}
+
+.header {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header>p {
+    margin-inline: 100px;
+}
+
+.random {
+    padding-top: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: rgb(157, 221, 221);
+    min-height: 200px;
+
+}
+
+.random>p {
+    margin-inline: 5px;
+}
+
+
+.text-secondary {
+    color: #3d5d6f;
+}
+
+.h4,
+h4 {
+    font-size: 1.2rem;
+}
+
+h2 {
+    color: #333;
+}
+
+.fa,
+.fas {
+    font-family: 'FontAwesome';
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-style: normal;
+}
+
+.right-0 {
+    right: 0;
+}
+
+.top-0 {
+    top: 0;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+a.text-secondary:focus,
+a.text-secondary:hover {
+    text-decoration: none;
+    color: #22343e;
+}
+
+#accordion .fa-plus {
+    transition: -webkit-transform 0.25s ease-in-out;
+    transition: transform 0.25s ease-in-out;
+    transition: transform 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+}
+
+#accordion a[aria-expanded=true] .fa-plus {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
