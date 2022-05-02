@@ -6,3 +6,11 @@ Generate passwords for all your sites in one go.
 Can't remember your passwords? No problem! Discard the pen and paper.
 
 ***
+### QUESTIONS PRIOR TO THE GENERATION OF THE PASSWORD!
+- Number of characters?
+- Include symbols?
+- Include Numbers?
+- Include capital letters?
+Remember that you are free to modify the indicators to your preference and thus create the password with the criteria you need.
+
+***
