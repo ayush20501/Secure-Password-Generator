@@ -5,6 +5,7 @@ Create a strong password with a custom length and a combination of letters, numb
 Generate passwords for all your sites in one go.
 Can't remember your passwords? No problem! Discard the pen and paper.
 
+[Live Demo](https://ayush20501.github.io/secure-password-generator/)
 ***
 ### QUESTIONS PRIOR TO THE GENERATION OF THE PASSWORD!
 - Number of characters?
