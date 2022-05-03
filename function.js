@@ -67,8 +67,7 @@ function myfunction() {
 }
 function copyfunction() {
     var copyText = document.getElementById("ptag").textContent;
-    navigator.clipboard.writeText(copyText);
-    alert("Your password is copied to clipboard!");
+    navigator.clipboard.writeText(copyText).then(()=>{alert("Your Password is copied!");}).catch(()=>{alert("Something went wrong");})
     document.getElementById("ptag").innerHTML="Your Password will appear here!";
     document.getElementById("num").value="";
 }
