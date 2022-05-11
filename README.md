@@ -19,4 +19,7 @@ Remember that you are free to modify the indicators to your preference and thus 
 ![Screenshot (20)](https://user-images.githubusercontent.com/77526719/166190259-bfb3f49b-648a-436b-912e-2ddb1bdfe433.png)
 
 ***
-Created By: Ayush Gupta
+Created By: Ayush Gupta<br/>
+Gmail: ayush20501.ag@gmail.com<br/>
+[Linkedin](https://www.linkedin.com/in/ayush-gupta-3bb02a1a2)<br/>
+[Instagram](https://www.instagram.com/ayushh__guptaa/)
