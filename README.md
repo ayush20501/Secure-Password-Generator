@@ -1,4 +1,5 @@
-### WHAT IS IT AND WHAT IS IT USED FOR?
+### SECURE PASSWORD GENERATOR
+***
 Create strong passwords today to protect your accounts online. With our service, you can create strong passwords that are impossible to crack. Rest assured, use our product!
 
 Create a strong password with a custom length and a combination of letters, numbers and symbols.
