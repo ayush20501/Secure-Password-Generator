@@ -13,7 +13,7 @@ Project is created with-
 3. JavaScript
 4. GitHub pages
 
-[Live Demo](https://ayush20501.github.io/secure-password-generator/)
+[Live Demo](https://ayush20501.github.io/password-point/)
 ***
 ### QUESTIONS PRIOR TO THE GENERATION OF THE PASSWORD!
 - Number of characters?
